@@ -8,10 +8,9 @@
 
 本小节分为以下 6 个部分：
 
-- 一，复习二进制补码
-- 二，复习位运算
-- 三，LuaJIT 中的 bit 操作和 Lua BitOp API 简介
-- 四，位运算算法实例
-- 五，Lua BitOp 的安装
+- [一，复习二进制补码](openresty/bit_two's_complement.md)
+- [二，复习位运算](openresty/bit_operations_review.md)
+- [三，LuaJIT 和 Lua BitOp Api](openresty/bit_LuaJIT_BitOp_Api.md)
+- [四，位运算算法实例](openresty/bit_bitwise_operation_example.md)
+- [五，Lua BitOp 的安装](openresty/bit_bitop_installation.md)
 - 六，参考资料
-
