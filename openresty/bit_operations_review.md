@@ -1,5 +1,11 @@
 # 二，复习位运算
 
+- [一，复习二进制补码](./bit_two's_complement.md)
+- [二，复习位运算](./bit_operations_review.md)
+- [三，LuaJIT 和 Lua BitOp Api](./bit_LuaJIT_BitOp_Api.md)
+- [四，位运算算法实例](./bit_bitwise_operation_example.md)
+- [五，Lua BitOp 的安装](./bit_bitop_installation.md)
+
 我们先来复习一下 C 语言中，6 种代表性的位运算，OpenResty 中的位运算只是稍有差异。为清晰起见本文中称呼所有的位运算的函数为「**按位 XX**」。
 
 ## 1，运算符

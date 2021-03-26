@@ -1,5 +1,11 @@
 # 四，位运算算法实例
 
+- [一，复习二进制补码](./bit_two's_complement.md)
+- [二，复习位运算](./bit_operations_review.md)
+- [三，LuaJIT 和 Lua BitOp Api](./bit_LuaJIT_BitOp_Api.md)
+- [四，位运算算法实例](./bit_bitwise_operation_example.md)
+- [五，Lua BitOp 的安装](./bit_bitop_installation.md)
+
 ## 示例 1： LeetCode 的 Missing Number：
 **(1) 题目描述：**
 

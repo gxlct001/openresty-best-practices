@@ -1,5 +1,11 @@
 # 三，LuaJIT 中的 bit 操作和 Lua BitOp API 简介
 
+- [一，复习二进制补码](./bit_two's_complement.md)
+- [二，复习位运算](./bit_operations_review.md)
+- [三，LuaJIT 和 Lua BitOp Api](./bit_LuaJIT_BitOp_Api.md)
+- [四，位运算算法实例](./bit_bitwise_operation_example.md)
+- [五，Lua BitOp 的安装](./bit_bitop_installation.md)
+
 ## 1，LuaJIT 中的 bit 操作
 因为从 OpenResty 1.5.8.1 就默认使用 LuaJIT 作为内置组件，我们可以在
 LuaJIT 网站介绍 [扩展模块](https://luajit.org/extensions.html) 的页面上看到下面的描述：

@@ -1,5 +1,11 @@
 # 五，Lua BitOp 的安装
 
+- [一，复习二进制补码](./bit_two's_complement.md)
+- [二，复习位运算](./bit_operations_review.md)
+- [三，LuaJIT 和 Lua BitOp Api](./bit_LuaJIT_BitOp_Api.md)
+- [四，位运算算法实例](./bit_bitwise_operation_example.md)
+- [五，Lua BitOp 的安装](./bit_bitop_installation.md)
+
 **本文是官方文档的翻译，仅供参考。请需要查看英文原文的小伙伴直接访问：[Lua BitOp Installation](http://bitop.luajit.org/install.html) 页面。**
 
 本页介绍如何针对现有的 Lua 安装版本，从源代码构建 Lua BitOp。如果您是使用包管理器（例如，作为 Linux 发行版的一部分）安装的 Lua，建议您检查并安装 Lua BitOp 的预构建包作为代替。
