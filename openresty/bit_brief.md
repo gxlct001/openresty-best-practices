@@ -6,11 +6,13 @@
 
 与系统编程不同，我们可以感觉到在一般的应用程序编程中对位运算的要求并不高。
 
+> 以上内容引用自《枕边算法书》。
+
 本小节分为以下 6 个部分：
 
 - [一，复习二进制补码](./bit_two's_complement.md)
 - [二，复习位运算](./bit_operations_review.md)
-- [三，LuaJIT 和 Lua BitOp Api](./bit_LuaJIT_BitOp_Api.md)
+- [三，LuaJIT 中的 bit 操作和 Lua BitOp ApiPI 简介](./bit_LuaJIT_BitOp_Api.md)
 - [四，位运算算法实例](./bit_bitwise_operation_example.md)
 - [五，Lua BitOp 的安装](./bit_bitop_installation.md)
 - 六，参考资料
